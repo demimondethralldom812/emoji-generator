@@ -16,12 +16,7 @@
 
 ### 1. 多元风格，应有尽有 (Diverse Styles)
 无论是夸张搞笑的土豆人、水汪汪的萌系小狗，还是二次元的动漫少女与复古像素风，统统一键拿捏。
-<p align="center">
-  <img src="https://api.tudouseo.com/public/upload/1762662320918.png" width="24%" alt="搞笑风格表情包生成示例 - 夸张的熊猫">
-  <img src="https://api.tudouseo.com/public/upload/1762660158839.png" width="24%" alt="萌系风格表情包生成示例 - 可爱的小狗">
-  <img src="https://api.tudouseo.com/public/upload/1762660285213.png" width="24%" alt="动漫风格表情包生成示例 - 害羞的少女">
-  <img src="https://api.tudouseo.com/public/upload/1762660388876.png" width="24%" alt="像素风格表情包生成示例 - 复古笑脸">
-</p>
+
 
 ### 2. 参考图精准控图 (Image-to-Emoji Generation)
 有大概的构图想法或想对特定图片进行表情包魔改？上传参考底图，让 AI 完美重绘！
@@ -29,13 +24,13 @@
 **🤖 案例一：赛博朋克机械表情包 (科幻感强烈)**
 <p align="center">
   <img src="https://img.hanyuai.com/file/emoji-generator/JUTukcAH.webp" width="48%" alt="赛博风格表情包生成案例 - 参考底图">
-  <img src="https://api.tudouseo.com/public/upload/1762592825817.png" width="48%" alt="赛博风格表情包生成案例 - AI渲染成品">
+
 </p>
 
 **🐰 案例二：梦幻萌系小动物 (可爱施法动作)**
 <p align="center">
   <img src="https://img.hanyuai.com/file/emoji-generator/4BHlNIiS.webp" width="48%" alt="萌系场景表情包生成案例 - 参考底图">
-  <img src="https://api.tudouseo.com/public/upload/1762592883664.png" width="48%" alt="萌系场景表情包生成案例 - AI渲染成品">
+ 
 </p>
 
 ---
